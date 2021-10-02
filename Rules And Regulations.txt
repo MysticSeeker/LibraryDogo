@@ -1,0 +1,16 @@
+RULES AND REGULATIONS
+
+Hi friends!
+I am going to prepare a school library management algo.
+You guys can contribute by helping me in this project.
+There are certain rules and regulations for this project:-
+1>This project will be based on Java only.
+2>The essentials attachments have been provided as per the project needs.
+3>Analyse the given data and attachment first.
+4>Go through the README.md file.
+5>Star And fork repo.
+6>New ideas will be examined but spams will be reported.
+7>Only present the basic java skeleton.
+8>No need for GUI.
+9>Will be working for another applet on MongoDB.
+10>Django will be used.
