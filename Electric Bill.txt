@@ -1,0 +1,17 @@
+class ElectricBill
+{
+ void display(int unit)
+ {
+  double bill=0.0;
+  if (unit <=100)
+  bill=unit*3.20+150;
+  else if(unit <=300)
+  bill=100*3.20+(unit-100)*4.00+150; 
+  else if(unit <=500)
+  bill=100*3.20+200*4.00(unit-300)*4.70+150; 
+  else
+  bill=100*3.20+200+4.00+200*4.70+(unit-500)*5.20+150;
+  System.out.println("Electric Unit="+unit);
+  System.out.println("Electric Bill="+bill);
+ }
+}

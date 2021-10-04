@@ -1,0 +1,22 @@
+class si
+{
+ void display(int p, int t)
+ {
+  int r=0
+  double si=0.0, amt=0.0;
+  if(t<=5)
+  r=5;
+  else if(t>5&&t<=8)
+  r=7;
+   else if(t>8&&t<=11)
+  r=9;
+   else if(t>11&&t<=15)
+  r=12;
+  else
+  r=15;
+  si=p*r*t/100.0;
+  amt=p+si;
+  System.out.println("SI="+si);
+  System.out.println("Amount="+amt);
+ }
+}
